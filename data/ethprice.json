@@ -2,9 +2,9 @@
   "status": "1",
   "message": "OK",
   "result": {
-    "ethbtc": "0.0633014237113037",
-    "ethbtc_timestamp": "1693094304",
-    "ethusd": "1646.31",
-    "ethusd_timestamp": "1693094305"
+    "ethbtc": "0.0633",
+    "ethbtc_timestamp": "1693130325",
+    "ethusd": "1649.82",
+    "ethusd_timestamp": "1693130336"
   }
 }
